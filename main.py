@@ -1,3 +1,3 @@
-print("This is secondary file")
-def fun2():
-    return "fet -  1"
+print("This is third file")
+def fun3():
+    return "fet -  2"
