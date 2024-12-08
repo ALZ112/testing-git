@@ -1,3 +1,3 @@
-print("This is secondary file")
+print("This is primary file")
 def fun2():
-    return "fet-1"
+    return "main"
