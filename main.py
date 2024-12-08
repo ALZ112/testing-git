@@ -1,3 +1,3 @@
-print("This is primary file")
-def fun2():
-    return "main"
+print("This is not primary file")
+def fun4():
+    return "fet - 3"
